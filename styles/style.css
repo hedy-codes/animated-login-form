@@ -27,3 +27,12 @@ body {
 .wrapper:hover{
     animation: animate 1s linear infinite;
 }
+
+@keyframes animate {
+    100% {
+        filter: hue-rotate(360deg);
+
+    }
+}
+
+
