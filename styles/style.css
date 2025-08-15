@@ -104,4 +104,17 @@ h2{
     top: -5px;
 }
 
+.remember{
+    margin: -5px 0 15px 5px;
+}
+
+.remember label{
+    color: #fff;
+    font-size: 14px;
+}
+
+.remember label input{
+    accent-color: #0ef;
+}
+
 
