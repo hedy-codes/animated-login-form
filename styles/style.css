@@ -135,3 +135,23 @@ button{
 }
 
 
+.signup-link{
+    font-size: 14px;
+    text-align: center;
+    margin: 15px 0;
+}
+
+.signup-link p{
+    color: #fff;
+}
+
+.signup-link p a {
+    color: #0ef;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.signup-link p a:hover{
+    text-decoration: underline;
+}
+
