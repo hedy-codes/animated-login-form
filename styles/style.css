@@ -86,4 +86,22 @@ h2{
 }
 
 
+.input-group input{
+    width: 320px;
+    height: 40px;
+    font-size: 16px;
+    color: #fff;
+    padding: 0 5px;
+    background: transparent;
+    border: none;
+    outline: none;
+
+}
+
+.input-group input:focus~label,
+.input-group input:valid~label {
+    position: absolute;
+    top: -5px;
+}
+
 
