@@ -7,3 +7,10 @@ signupbtnLink.addEventListener('click' , () => {
     wrapper.classList.toggle('active');
 
 });
+
+
+signinbtnLink.addEventListener('click' , () => {
+
+    wrapper.classList.toggle('active');
+    
+});
